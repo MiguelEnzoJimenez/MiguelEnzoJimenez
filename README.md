@@ -7,6 +7,7 @@
 <h2>🎁 Certifications</h2>
 
  - [Google Cybersecurity](https://coursera.org/share/25e08e46436f9683fe45d607f9ea7eda)
+ - [CompTIA Security+](https://github.com/user-attachments/files/16488715/CompTIA.Security%2B.pdf)
 
 <h2> 🤳 Connect with me:</h2>
 
@@ -31,3 +32,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+[CompTIA Security+.pdf](https://github.com/user-attachments/files/16488715/CompTIA.Security%2B.pdf)
