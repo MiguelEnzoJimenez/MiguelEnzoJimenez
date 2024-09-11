@@ -3,17 +3,20 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
  - [Active Directory Home Lab](https://github.com/MiguelEnzoJimenez/LABURL)
+ - [Automation Using Python](https://github.com/MiguelEnzoJimenez/LABURL)
+ - [Onboarding, Offboarding, and Eveything in Between](https://github.com/MiguelEnzoJimenez/LABURL)
 
 <h2>🎁 Certifications</h2>
 
- - [Google Cybersecurity](https://coursera.org/share/25e08e46436f9683fe45d607f9ea7eda)
  - [CompTIA Security+](https://github.com/user-attachments/files/16488715/CompTIA.Security%2B.pdf)
+ - [Google Cybersecurity Professional Certificate](https://coursera.org/share/25e08e46436f9683fe45d607f9ea7eda)
 
 <h2> 🤳 Connect with me:</h2>
 
 
 [<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
+[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />][medium]
 
 
 [linkedin]: https://www.linkedin.com/in/mecj/
+[medium]: https://miguelenzojimenez.medium.com/
