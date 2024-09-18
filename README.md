@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
- - [Active Directory Home Lab](https://github.com/MiguelEnzoJimenez/LABURL)
+ - [Active Directory Home Lab](https://miguelenzojimenez.medium.com/on-premises-detection-monitoring-83fe3413d5eb)
  - [Automation Using Python](https://github.com/MiguelEnzoJimenez/LABURL)
  - [Onboarding, Offboarding, and Eveything in Between](https://github.com/MiguelEnzoJimenez/LABURL)
 
