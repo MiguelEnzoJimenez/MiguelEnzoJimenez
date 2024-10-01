@@ -1,10 +1,10 @@
 <h1>Hi, I'm Enzo! <br/><a href="https://github.com/miguelenzojimenez">Programmer</a> & <a href="https://www.linkedin.com/in/mecj/">Cybersecurity Professional</a></h1>
 
-<h2>👨‍💻 Cybersecurity Projects:</h2>
+<h2>👨‍💻 Cybersecurity & IT Projects:</h2>
 
- - [Active Directory Home Lab](https://miguelenzojimenez.medium.com/on-premises-detection-monitoring-83fe3413d5eb)
- - [Automation Using Python](https://github.com/MiguelEnzoJimenez/LABURL)
- - [Onboarding, Offboarding, and Eveything in Between](https://github.com/MiguelEnzoJimenez/LABURL)
+ - [On-Premises Detection and Monitoring with Active Directory, Linux, and Splunk](https://miguelenzojimenez.medium.com/on-premises-detection-monitoring-83fe3413d5eb)
+ - [Building an Automated Account Lockout Monitor with PowerShell](https://medium.com/p/14bc378ab571)
+ - [Onboarding, Offboarding, and Eveything in Between (Answering the Most Common Help Desk Tickets!)](https://medium.com/p/a5eeb0e45e91)
 
 <h2>🎁 Certifications</h2>
 
