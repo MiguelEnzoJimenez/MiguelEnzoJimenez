@@ -5,7 +5,7 @@
  - [On-Premises Detection and Monitoring with Active Directory, Linux, and Splunk](https://miguelenzojimenez.medium.com/on-premises-detection-monitoring-83fe3413d5eb)
  - [Building an Automated Account Lockout Monitor with PowerShell](https://medium.com/p/14bc378ab571)
  - [Onboarding, Offboarding, and Eveything in Between (Answering the Most Common Help Desk Tickets!)](https://medium.com/p/a5eeb0e45e91)
- - [Automating OSINT with Python](https://medium.com/p/000eb85f0b3a)
+ - [Automating OSINT with Python]([https://medium.com/p/000eb85f0b3a](https://github.com/MiguelEnzoJimenez/Automating-OSINT-with-Python)
 
 <h2>🎁 Certifications</h2>
 
