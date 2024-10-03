@@ -1,4 +1,4 @@
-<h1>Hi, I'm Enzo! <br/><a href="https://github.com/miguelenzojimenez">Programmer</a> & <a href="https://www.linkedin.com/in/mecj/">Cybersecurity Professional</a></h1>
+<h1>Hi, I'm <a href="https://www.linkedin.com/in/mecj/">Enzo</a>! <br/>Cybersecurity & IT Professional</h1>
 
 <h2>👨‍💻 Cybersecurity & IT Projects:</h2>
 
