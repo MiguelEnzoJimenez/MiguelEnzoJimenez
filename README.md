@@ -11,6 +11,7 @@
 
  - [CompTIA Security+](https://github.com/user-attachments/files/16488715/CompTIA.Security%2B.pdf)
  - [Google Cybersecurity Professional Certificate](https://coursera.org/share/25e08e46436f9683fe45d607f9ea7eda)
+ - [Google IT Support Professional Certificate](https://www.coursera.org/account/accomplishments/professional-cert/L7CANCH6WG1E)
 
 <h2> 🤳 Connect with me:</h2>
 
